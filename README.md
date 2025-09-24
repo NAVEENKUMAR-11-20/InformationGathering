@@ -23,14 +23,45 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
-WHOIS:
-![whois](https://github.com/user-attachments/assets/ebaf3ee6-02ec-46f0-af71-f404c02b463d)
+### whois.com :
 
-IP:
+![whois](img/whois.png)
 
-WEARC<img width="1912" height="977" alt="ip" src="https://github.com/user-attachments/assets/8d74b174-dff4-4b81-b39b-25f4ee2428a9" />
-HIVE:
+### iplocator :
 
+![iplocator](img/ip.png)
+
+### webarchive :
+
+![webarchive](img/.png)
+
+### nmap :
+
+![nmap](img/.png)
+
+### whatweb :
+
+![whatweb](img/.png)
+
+### traceroute :
+
+![traceroute](img/.png)
+
+### ping :
+
+![ping](img/.png)
+
+### netcat :
+
+![netcat](img/.png)
+
+### UDP traceroute :
+
+![UDP](img/.png)
+
+### ICMP traceroute :
+
+![ICMP](img/.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
