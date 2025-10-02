@@ -65,7 +65,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### ICMP traceroute :
 
-![ICMP](img/.png)
+![Alt text](i.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
