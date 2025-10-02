@@ -25,7 +25,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### whois.com :
 
-![whois](img/whois.png)
+![Alt text](whois.png)
+
 
 ### iplocator :
 
