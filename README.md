@@ -35,7 +35,9 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### webarchive :
 
-![Alt text](.png)
+![Alt text](weba-1.png)
+![Alt text](weba-2.png)
+![Alt text](weba-3.png)
 
 ### nmap :
 
