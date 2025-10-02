@@ -25,40 +25,43 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### whois.com :
 
-![Alt text](whois.png)
+![Alt text](whois.jpg)
 
 
 ### iplocator :
 
-![iplocator](img/ip.png)
+![Alt text](ip.png)
+
 
 ### webarchive :
 
-![webarchive](img/.png)
+![Alt text](.png)
 
 ### nmap :
 
-![nmap](img/.png)
+![Alt text](nmap.png)
+
 
 ### whatweb :
 
-![whatweb](img/.png)
+![Alt text](whatweb.png)
 
 ### traceroute :
 
-![traceroute](img/.png)
+![Alt text](trace.png)
+![Alt text](trace2.png)
 
 ### ping :
 
-![ping](img/.png)
+![Alt text](ping.png)
 
 ### netcat :
 
-![netcat](img/.png)
+![Alt text](cat.png)
 
 ### UDP traceroute :
 
-![UDP](img/.png)
+![Alt text](sudo.png)
 
 ### ICMP traceroute :
 
